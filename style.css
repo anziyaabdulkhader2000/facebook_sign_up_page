@@ -1,0 +1,103 @@
+.header
+{
+    width: 100%;
+    height: 85px;
+    background: #3b5998;
+}
+body{
+    margin: 0;
+    font-family:helvetica Neue, helvetica,Arial,sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top:32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;  
+}
+.logotext{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 170px;
+    font-family: helvetica Neue, helvetica,Arial,sans-serif ;
+}
+
+
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #9a8989;
+    font-size: 11px;
+    text-decoration: none;
+}
+.login-button{
+    background: #4267b2;
+    color:#fff;
+    border-color: #29489d;
+    height: 20px;
+    cursor: pointer;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    
+}
+.right-section{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    width: 100%;
+    background: linear-gradient(white,#D3D8E8);
+    height: 500px;
+    margin-top: 25px;
+}
+.facebook-content{
+    color: #29489d;
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 173px;
+    font-family: helvetica Neue, helvetica,Arial,sans-serif ;
+   
+}
+.left-image{
+    width: 500px;
+    height: 200px;
+    margin-left: 173px;
+}
+.p1{
+    font-size:30px;
+    color: #2d2e30;
+    font-weight: bold;
+  
+    margin-top: 10px;
+}
+.p2{
+    font-size:15px;
+    color: #2d2e30;
+    font-weight: bold;
+    
+    margin-top: 0%;
+   
+}
+.right-form{
+    margin-left: 100px;
+    padding: 7px;
+    width: 385px;
+}
+
+}
+
+
